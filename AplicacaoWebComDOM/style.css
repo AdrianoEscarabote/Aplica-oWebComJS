@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Nunito', sans-serif;
+    align-items: center;
+}
+form {
+    background-color: #73a4cf;
+    border-radius: 15px;
+    padding: 0 40px;
+    width: auto;
+}
+h3 {
+    font-family: 'Asap', sans-serif;
+    font-size: x-large;
+    font-weight: 300;
+}
+#properties {
+    background-color: #4f91bd;
+    border: none;
+    border-top: 1px solid #000000;
+}
+.rented {
+    background-color: #73a4cf;
+    border-radius: 15px;
+    padding: 0 25px;
+}
+button {
+    outline: none;
+    border: 1px solid #3e7471;
+    border-radius: 5px;
+    width: 30%;
+}
