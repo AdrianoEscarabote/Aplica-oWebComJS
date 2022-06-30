@@ -28,13 +28,13 @@ atualizada assim que o imóvel é criado no formulário.
 A corretora também pode remover um imóvel cadastrado previamente clicando num botão na lista de 
 imóveis.
 
-Para fazer isso tudo, usamos conteúdos que estávamos aprendendo, por exemplo:
+- Para fazer isso tudo, usamos conteúdos que estávamos aprendendo, por exemplo:
 Classes
 Manipulação de DOM
 Chamada, eventos a partir do HTML
 e brinquei com um pouco de css no meio do projeto.
 
-Fique a vontade para testar.
+- Fique a vontade para testar.
 
 ### The challenge
 
